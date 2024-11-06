@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning advanced data science techniques and refining my skills in Python, GIS, and data visualization with tools like Seaborn and Matplotlib.
 
-💞️ I’m looking to collaborate on projects involving geospatial data analysis, urban planning, and sustainable city development.
+🤝 I’m looking to collaborate on projects involving geospatial data analysis, urban planning, and sustainable city development.
 
 📫 You can connect with me for discussions on urban development and data science applications.
 
