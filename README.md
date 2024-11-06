@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on projects involving geospatial data analysis, urban planning, and sustainable city development.
 
-📫 You can reach me through GitHub or connect with me for discussions on urban development and data science applications.
+📫 You can connect with me for discussions on urban development and data science applications.
 
 😄 Pronouns: He/Him
 
