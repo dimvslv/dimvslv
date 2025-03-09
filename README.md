@@ -1,4 +1,4 @@
-👋 Hi, I’m Dimitri (@dimvslv), a junior data scientist and urban planning expert.
+👋 Hi, I’m Dimitri (@dimvslv), a geospatial data scientist and urban planning expert.
 
 👀 I’m interested in spatial data analysis, urban modeling, and machine learning.
 
